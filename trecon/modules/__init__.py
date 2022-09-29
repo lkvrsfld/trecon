@@ -1,2 +1,2 @@
-from modules.shodan import Shodan
+from modules.shodan import shodan
 from modules.builtwith import builtwith
